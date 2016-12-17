@@ -23,3 +23,4 @@ Ship.prototype.move();
 console.log(MovingObject.color);
 Ship.color = "red";
 console.log(Ship.color);
+console.log(Asteroid.prototype.color);
